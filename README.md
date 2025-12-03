@@ -1,4 +1,4 @@
-## 👋 Hi, I'm CJ Black
+## 👋 Hi, I'm Christian John Calderon Duque (CJBLACK)
 
 **Web Developer | Bug Creator & Solver | Professional Stack Overflow User**
 
