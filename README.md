@@ -22,11 +22,5 @@
 🥉 **2nd Runner Up** – TECHLYMPICS 2025  
 *(Proof I can configure routers AND center a div!)*
 
-### 📊 GitHub Reality Check
-![CJ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CJBLA-CK24&show_icons=true&theme=radical&count_private=true&hide=issues)
-
-**Top Languages:**  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CJBLA-CK24&layout=compact&theme=radical&hide=html,css)
-
 *"It works on my machine"* 🖥️✨  
 *Available for: debugging, coffee breaks, and occasionally writing production code*
