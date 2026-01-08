@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Christian John Calderon Duque (CJBLACK)
 
-**Web Developer | Bug Creator & Solver | Professional Stack Overflow User**
+**Junior Full-Stack Mobile/Web Developer | Bug Creator & Solver | Professional Stack Overflow User**
 
 🔭 **Currently:** Building things that sometimes work on the first try  
 🌱 **Learning:** How to convince TypeScript I know what I'm doing  
