@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://cjblack-dev-minimalistic-portfolio.vercel.app">🌐 Portfolio</a> • 
-  <a href="mailto:duquechristianjohncalmon@gmail.com">📧 Email</a> • 
+  <a href="https://cjblack-dev-minimalistic-portfolio.vercel.app">🌐 Portfolio</a> •
+  <a href="mailto:duquechristianjohncalmon@gmail.com">📧 Email</a> •
   <a href="https://github.com/CJBLACK24">💻 GitHub</a>
 </p>
 
@@ -19,11 +19,24 @@
 
 ## 🚀 About Me
 
-I’m a **Junior Full-Stack Mobile/Web Developer** who enjoys building clean, functional, and user-focused applications. I care deeply about fundamentals, scalability, and writing code that still makes sense three months later.
+I’m a **Founder‑minded Full‑Stack Mobile/Web Developer** who builds with ownership, clarity, and long‑term vision. I don’t just write features — I design systems that scale, survive refactors, and still make sense under pressure.
 
-I’ve worked across both frontend and backend, and I’m especially interested in **modern JavaScript ecosystems**, **Next.js**, and **production-ready system design**.
+I work end‑to‑end across frontend, backend, and data, with a strong bias toward **production‑ready architecture**, **clean UI systems**, and **validation‑first APIs**.
 
-> I believe good software is built by understanding the full flow — from user interaction to database persistence.
+> I build software the way founders do: understand the problem deeply, make deliberate decisions, and ship responsibly.
+
+---
+
+## 🎯 CORE MINDSET — **VIBE CODER**
+
+1. **Systemic Thinking**
+   I see the whole machine — **User → UI → API → Database** — and design with the full flow in mind.
+
+2. **Fundamental Excellence**
+   I obsess over correctness and clarity — clean semantics, predictable design systems, and data that is validated before it ever becomes a bug.
+
+3. **Entrepreneur Spirit**
+   I build like an owner: solving real problems, making clear product decisions, and shipping features people actually use.
 
 ---
 
