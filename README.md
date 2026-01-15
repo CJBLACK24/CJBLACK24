@@ -5,7 +5,6 @@
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Anime developer coding" />
     </td>
     <td width="60%">
-      <h3>🚀 About Me</h3>
       <p>
         👋 Hi, I'm Christian John Calderon Duque Founder-minded <strong> Full-Stack Mobile/Web Developer</strong>. I build clean, production-ready systems end-to-end — from UI to API to database. I focus on fundamentals, scalability, and shipping software that actually works in the real world.
       </p>
