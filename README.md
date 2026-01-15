@@ -1,13 +1,24 @@
 # 👋 Hi, I'm **Christian John Calderon Duque**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Anime developer coding" />
-</p>
-
-<p align="center">
-  <strong>Junior Full-Stack Mobile & Web Developer</strong><br/>
-  Problem Solver • Builder Mindset • Production-Oriented
-</p>
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Anime developer coding" />
+    </td>
+    <td width="50%" valign="middle">
+      <h3>Junior Full-Stack Mobile & Web Developer</h3>
+      <p>
+        Founder-minded • Production-Oriented • System Thinker<br/>
+        I build end-to-end systems that scale, stay readable, and ship with intention.
+      </p>
+      <p>
+        <a href="https://cjblack-dev-minimalistic-portfolio.vercel.app">🌐 Portfolio</a><br/>
+        <a href="mailto:duquechristianjohncalmon@gmail.com">📧 Email</a><br/>
+        <a href="https://github.com/CJBLACK24">💻 GitHub</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://cjblack-dev-minimalistic-portfolio.vercel.app">🌐 Portfolio</a> •
