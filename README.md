@@ -3,6 +3,8 @@
   <tr>
     <td width="40%" align="center" valign="top">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Anime developer coding" />
+       📧 <a href="mailto:duquechristianjohncalmon@gmail.com">Email</a><br/>
+      <a href="https://www.facebook.com/ChrisNoLimit1124">Facebook</a>
     </td>
     <td width="60%">
       <p>
@@ -21,6 +23,6 @@
         👉 Full details, projects, and case studies live on my 🌐 <a href="https://cjblack-dev-minimalistic-portfolio.vercel.app">Portfolio</a>.
       </p>
       <p>
-        📧 <a href="mailto:duquechristianjohncalmon@gmail.com">Email</a><br/>
+    
   </tr>
 </table>
