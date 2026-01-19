@@ -24,6 +24,6 @@
         👉 Full details, projects, and case studies live on my Portfolio🌐.
       </p>
       <p>
-    
+   <img src= https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmtjMG1zYmVrdWpleDdrNHoxdTN2dG1mY2xwYm1hM2p3YW5neDgxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MCMHrLVUhsBW0ZgcAD/giphy.gif/>
   </tr>
 </table>
