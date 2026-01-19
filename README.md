@@ -7,7 +7,7 @@
        ✦ <a href="https://cjblack-dev-minimalistic-portfolio.vercel.app">Portfolio</a>
        ✦ <a href="https://www.facebook.com/ChrisNoLimit1124">Facebook</a>
       <br>
-      <img src="https://camo.githubusercontent.com/971dc0f889a81abf890b811ea97765459c01e50470aa92927fc63109867dc35e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f7765627061636b2d69636f6e2e737667" width="32" height="32">
+      <img src="https://camo.githubusercontent.com/971dc0f889a81abf890b811ea97765459c01e50470aa92927fc63109867dc35e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f7765627061636b2d69636f6e2e737667" width="50" height="50">
     </td>
     <td width="60%">
       <p style="margin: 8px 0; font-size: 0.9em;">
@@ -26,7 +26,7 @@
         👉 Full details, projects, and case studies live on my Portfolio🌐.
       </p>
       <p style="margin: 8px 0;">
-        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmtjMG1zYmVrdWpleDdrNHoxdTN2dG1mY2xwYm1hM2p3YW5neDgxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MCMHrLVUhsBW0ZgcAD/giphy.gif" width="200">
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmtjMG1zYmVrdWpleDdrNHoxdTN2dG1mY2xwYm1hM2p3YW5neDgxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MCMHrLVUhsBW0ZgcAD/giphy.gif" />
       </p>
     </td>
   </tr>
