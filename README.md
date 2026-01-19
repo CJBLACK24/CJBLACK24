@@ -3,9 +3,9 @@
   <tr>
     <td width="40%" align="center" valign="top">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Anime developer coding" />
-       📧 <a href="https://mail.google.com/mail/u/0/#sent?compose=DmwnWsCbJPBDxRtjbQMnfdbrftLgXNvtxhttBdZFbvJKrpQcgZwxxqwVcfcqHGTvcsdcsmmdrlgb">Email</a>
-        <a href="https://cjblack-dev-minimalistic-portfolio.vercel.app">Portfolio</a>
-      <a href="https://www.facebook.com/ChrisNoLimit1124">Facebook</a>
+       ✦ <a href="https://mail.google.com/mail/u/0/#sent?compose=DmwnWsCbJPBDxRtjbQMnfdbrftLgXNvtxhttBdZFbvJKrpQcgZwxxqwVcfcqHGTvcsdcsmmdrlgb">Email</a>
+       ✦ <a href="https://cjblack-dev-minimalistic-portfolio.vercel.app">Portfolio</a>
+     ✦ <a href="https://www.facebook.com/ChrisNoLimit1124">Facebook</a>
     </td>
     <td width="60%">
       <p>
