@@ -6,6 +6,7 @@
        ✦ <a href="https://mail.google.com/mail/u/0/#sent?compose=DmwnWsCbJPBDxRtjbQMnfdbrftLgXNvtxhttBdZFbvJKrpQcgZwxxqwVcfcqHGTvcsdcsmmdrlgb">Email</a>
        ✦ <a href="https://cjblack-dev-minimalistic-portfolio.vercel.app">Portfolio</a>
      ✦ <a href="https://www.facebook.com/ChrisNoLimit1124">Facebook</a>
+      <img src="https://camo.githubusercontent.com/971dc0f889a81abf890b811ea97765459c01e50470aa92927fc63109867dc35e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f7765627061636b2d69636f6e2e737667" >
     </td>
     <td width="60%">
       <p>
