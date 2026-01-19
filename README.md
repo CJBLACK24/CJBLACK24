@@ -3,7 +3,8 @@
   <tr>
     <td width="40%" align="center" valign="top">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Anime developer coding" />
-       📧 <a href="mailto:duquechristianjohncalmon@gmail.com">Email</a><br/>
+       📧 <a href="https://mail.google.com/mail/u/0/#sent?compose=DmwnWsCbJPBDxRtjbQMnfdbrftLgXNvtxhttBdZFbvJKrpQcgZwxxqwVcfcqHGTvcsdcsmmdrlgb">Email</a>
+        <a href="https://cjblack-dev-minimalistic-portfolio.vercel.app">Portfolio</a>
       <a href="https://www.facebook.com/ChrisNoLimit1124">Facebook</a>
     </td>
     <td width="60%">
@@ -20,7 +21,7 @@
         <strong>Tooling:</strong> Arcjet, Sentry, Better Auth, Magic Links (passwordless + email verification), Prisma/Drizzle ORM, NeonDB, CI/CD pipelines, GitHub Actions, and custom domains.
       </p>
       <p>
-        👉 Full details, projects, and case studies live on my 🌐 <a href="https://cjblack-dev-minimalistic-portfolio.vercel.app">Portfolio</a>.
+        👉 Full details, projects, and case studies live on my Portfolio🌐.
       </p>
       <p>
     
