@@ -6,7 +6,6 @@
        ✦ <a href="https://mail.google.com/mail/u/0/#sent?compose=DmwnWsCbJPBDxRtjbQMnfdbrftLgXNvtxhttBdZFbvJKrpQcgZwxxqwVcfcqHGTvcsdcsmmdrlgb">Email</a>
        ✦ <a href="https://cjblack-dev-minimalistic-portfolio.vercel.app">Portfolio</a>
      ✦ <a href="https://www.facebook.com/ChrisNoLimit1124">Facebook</a>
-       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmtjMG1zYmVrdWpleDdrNHoxdTN2dG1mY2xwYm1hM2p3YW5neDgxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MCMHrLVUhsBW0ZgcAD/giphy.gif" />
     </td>
     <td width="60%">
       <p>
@@ -25,6 +24,6 @@
         👉 Full details, projects, and case studies live on my Portfolio🌐.
       </p>
       <p>
-  
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmtjMG1zYmVrdWpleDdrNHoxdTN2dG1mY2xwYm1hM2p3YW5neDgxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MCMHrLVUhsBW0ZgcAD/giphy.gif" />
   </tr>
 </table>
